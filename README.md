@@ -5,7 +5,7 @@
 ## 💬 About me
 
 - QA Engineer
-- Entrepreneur <https://blaxter-inc.github.io/RA_Landing_Page/>
-- Pentester and security enthusiastic 
-- Javascript passionate
+- Entrepreneur: <https://blaxter-inc.github.io/RA_Landing_Page/>
+- Pentester and security enthusiastic: <https://www.wechall.net/profile/blaxter> 
+- Javascript passionate: <https://www.hackerrank.com/profile/blaxter> 
 - I’m currently learning Langchain and IA
