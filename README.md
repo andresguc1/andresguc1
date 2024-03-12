@@ -4,7 +4,7 @@
 
 ## 💬 About me
 
-- QA Engineer
+- QA Engineer: <https://www.linkedin.com/in/andresguc/>
 - Entrepreneur: <https://blaxter-inc.github.io/RA_Landing_Page/>
 - Pentester and security enthusiastic: <https://www.wechall.net/profile/blaxter> 
 - Javascript passionate: <https://www.hackerrank.com/profile/blaxter> 
